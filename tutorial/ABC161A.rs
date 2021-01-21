@@ -6,5 +6,5 @@ fn main() {
         y: i8,
         z: i8,
     }
-    println!("{}{}{}", z, x, y);
+    println!("{} {} {}", z, x, y);
 }
